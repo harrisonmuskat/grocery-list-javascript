@@ -1,0 +1,33 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fff8ee;
+}
+
+.row {
+  margin: 20px 5%;
+}
+
+.row h1 {
+  background-color: #892C22;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+li {
+  width: 50%;
+  margin: auto;
+}
